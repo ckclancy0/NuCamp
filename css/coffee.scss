@@ -1,0 +1,47 @@
+$color-tan: #c49770;
+$color-coffee: #422f1e;
+
+body {
+    background-color: $color-tan;
+}
+
+h1 {
+    font-family: "Chewy", sans-serif;
+    text-align: center;
+    padding-top: 2%;
+    margin-bottom: 2%;
+    color: $color-coffee;
+}
+
+.back-color {
+    background-color: $color-coffee;
+}
+
+p {
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+h3 {
+    color: $color-tan;
+    font-family: "Chewy", sans-serif;
+}
+
+main {
+    margin: auto;
+}
+
+li {
+    color: $color-tan;
+    margin-bottom: 5px;
+}
+
+h5 {
+    color: $color-coffee;
+}
+
+.socials {
+    a {
+        color: $color-coffee;
+    }
+}
